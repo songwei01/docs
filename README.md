@@ -8,7 +8,7 @@ Click on `Use this template` to copy the Mintlify starter kit. The starter kit c
 - API Reference pages
 - Use of popular components
 
-
+<img width="390" height="392" alt="Image" src="https://github.com/user-attachments/assets/451688df-3ab4-4192-a1ff-9285692d1645" />
 
 ### Development
 
