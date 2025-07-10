@@ -9,6 +9,7 @@ Click on `Use this template` to copy the Mintlify starter kit. The starter kit c
 - Use of popular components
 
 
+https://github.com/user-attachments/assets/50af55a4-fb7f-4e94-bbdc-3e7d2f4b3f54
 
 ### Development
 
